@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+.box {
+    width: 300px;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.icon {
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain
+}
